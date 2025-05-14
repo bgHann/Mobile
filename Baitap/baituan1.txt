@@ -1,9 +1,10 @@
 1. Mong muốn khi học xong môn này là tìm hiểu, trao dồi them kiến thức về lâp trình thiết bị di động
 2. Theo e trong tương lai lập trình thiết bị di động sẽ trở nên phát triển. 
-Người dùng smartphone ngày càng nhiều.
-
+Người dùng smartphone ngày càng nhiều
 Doanh nghiệp cần app để kinh doanh.
-
 Công nghệ mới như AI, IoT, smartwatch đều gắn với mobile.
-
 Nhu cầu tuyển lập trình viên mobile luôn cao.
+bài 3
+https://www.figma.com/proto/KK8n8CkxF4QmSiYGx3nVdV/UI_han?node-id=2-2&p=f&t=VSR2ktzB0xqX7yAa-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+
+https://www.figma.com/design/KK8n8CkxF4QmSiYGx3nVdV/UI_han?node-id=0-1&p=f&t=2oeixsoNjOHje6e9-0
